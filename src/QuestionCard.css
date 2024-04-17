@@ -1,0 +1,15 @@
+form {
+    width: 700px;
+    height: 250px;
+    margin: 100px auto;
+    /* outline: solid 1px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    margin-top: 50px;
+    padding: 10px;
+}
